@@ -1,0 +1,2 @@
+# How-does-U.S.-driving-activity-respond-to-changes-in-gasoline-prices-
+his project estimates the relationship between U.S. vehicle miles traveled and  gasoline prices. Understanding how drivers shift their behavior in response to changes in gasoline  prices is crucial for evaluating the effectiveness of carbon taxes. If gasoline demand is inelastic,  price-based climate policies may not reduce gas emissions. 
